@@ -3,7 +3,7 @@
     "short_name": "Add to List",
     "icons":
         [
-            {"src":"/corgi1.jpeg","sizes":"192x192","type":"image/png"},{"src":"/corgi1.jpeg","sizes":"512x512","type":"image/png"}
+            {"src":"assets/corgi1.jpeg","sizes":"192x192","type":"image/png"},{"src":"assets/corgi1.jpeg","sizes":"512x512","type":"image/png"}
         ],
     "theme_color": "#EEF0F4",
     "background_color": "#EEF0F4",
