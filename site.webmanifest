@@ -3,7 +3,7 @@
     "short_name": "Add to List",
     "icons":
         [
-            {"src":"assets/animated corgi transparent.jpg","sizes":"192x192","type":"image/png"},{"src":"assets/animated corgi transparent.jpg","sizes":"512x512","type":"image/png"}
+            {"src":"assets/animated corgi transparent Small.png","sizes":"192x192","type":"image/png"},{"src":"assets/animated corgi transparent Small.png","sizes":"512x512","type":"image/png"}
         ],
     "theme_color": "#EEF0F4",
     "background_color": "#EEF0F4",
