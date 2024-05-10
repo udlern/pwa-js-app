@@ -3,7 +3,7 @@
     "short_name": "Add to List",
     "icons":
         [
-            {"src":"assets/kisspng-pembroke-welsh-corgi-cardigan-welsh-corgi-puppy-cl-5ba2b1deb2a652.5239105615373890227318.png","sizes":"192x192","type":"image/png"},{"src":"assets/kisspng-pembroke-welsh-corgi-cardigan-welsh-corgi-puppy-cl-5ba2b1deb2a652.5239105615373890227318.png","sizes":"512x512","type":"image/png"}
+            {"src":"assets/corgi.png","sizes":"192x192","type":"image/png"},{"src":"assets/corgi.png","sizes":"512x512","type":"image/png"}
         ],
     "theme_color": "#EEF0F4",
     "background_color": "#EEF0F4",
